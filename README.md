@@ -38,4 +38,6 @@ run the script
 ./create_backgrounds.sh
 ```
 
+## Restart teams-for-linux 
 
+to pick up the newly available images
