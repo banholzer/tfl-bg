@@ -38,6 +38,18 @@ run the script
 ./create_backgrounds.sh
 ```
 
+## Update your config
+
+`~/.config/teams-for-linux/config.json`
+```json
+{
+        "optInTeamsV2": true,
+        "url": "https://teams.microsoft.com/v2/",
+        "isCustomBackgroundEnabled": true,
+        "customBGServiceConfigFetchInterval": 120
+}
+```
+
 ## Restart teams-for-linux 
 
 to pick up the newly available images
